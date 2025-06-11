@@ -42,7 +42,7 @@ CREATE TABLE `employee` (
 LOCK TABLES `employee` WRITE;
 /*!40000 ALTER TABLE `employee` DISABLE KEYS */;
 INSERT INTO `employee` VALUES
-(12,'Noah','Paxton','aberdeen','214364','2024-09-26','1256785');
+(12,'example','blah','city','214364','2024-09-26','1256785');
 /*!40000 ALTER TABLE `employee` ENABLE KEYS */;
 UNLOCK TABLES;
 
